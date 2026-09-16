@@ -1,0 +1,6 @@
+{
+  "name": "ChitChat",
+  "description": "Clean, modern chat application with a premium Material Design 3 interface, instant start, and rich messaging features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
